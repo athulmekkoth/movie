@@ -1,0 +1,16 @@
+body{
+    color: wheat;
+}
+.move-list,.show-list{
+    margin:20px 0px
+}
+.move-list > h2.show-list >h2{
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+.movie-container{
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap:15px;
+}

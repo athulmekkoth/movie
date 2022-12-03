@@ -1,0 +1,10 @@
+.ft{
+    width: 100%;
+    height: 5rem;
+    background-color: grey;
+    color: wheat;
+    text-align: center;
+}
+body{
+    margin: 0px;
+}

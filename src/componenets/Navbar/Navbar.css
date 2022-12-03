@@ -1,0 +1,31 @@
+body{  margin: 0px;}
+.navbar{
+    width: 100%;
+    height:400px;
+    display: flex;
+    justify-content: space-between;
+    background-color:darkviolet;
+
+    flex-wrap: wrap;
+  
+}
+.nimg{
+    height: 10rem;
+    width:10rem;
+    border-radius: 20px;
+   margin: 40px;
+    
+}
+.ntx{
+   padding: 1rem;
+}
+.inp{
+    margin-top: 50px;
+    height: 30px;
+    width: 300px;
+    border-radius: 2px;
+}
+.bt{
+    width: 80px;
+    height: 37px;
+}

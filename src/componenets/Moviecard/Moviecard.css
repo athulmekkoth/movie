@@ -1,0 +1,13 @@
+.card-item{
+    cursor: pointer;
+    transition: all 0.3s;
+
+
+}
+.card-item :hover {
+   
+    transform: scale(1.05,1.05);
+    transition: all 0.3s ;
+  }
+
+
